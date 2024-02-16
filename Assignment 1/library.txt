@@ -1,0 +1,4 @@
+google
+selenium
+yfinance
+langchain
